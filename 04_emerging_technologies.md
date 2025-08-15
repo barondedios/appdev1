@@ -77,7 +77,8 @@
 
 - **In Education**:  
 
-    Purpose in Education
+    A lot of filipinos are struggling with attending and accessing educational resources online due to a lack of internet connection and slow 3G/4G networks. That is why
+    based on the research study named "University Campus 5G testbed and use case deployments in the philippines, Students and Faculty members will now be able to have access to:
 
     Enhanced Learning Resources: Students and faculty benefit from high-speed, low-latency access to cloud-based educational tools, VR simulations, and research databases.
 
@@ -90,6 +91,8 @@
     Innovation Hub: The project positions Ateneo as a leader in 5G-driven education research in the Philippines.
 
     Scalable Model: The testbed can be replicated by other universities seeking to adopt smart campus technology.
+
+    
 
     ![Alt text](https://i.imgur.com/HcnWdht.png "Image Title")
 
