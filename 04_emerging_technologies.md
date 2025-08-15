@@ -10,7 +10,7 @@
 
     5G has been making quite an impact in the industrial IoT, from providing a more secured tracking for vehicles and parcels, to providing efficient sensors and enhanced security with very low latency that allows very little errors to occur at all. 
 
-    Back then, IoT or even IT doesn't exist in the Industrial Period, where work and labor are done with pretty much no modern technology at all. But now, IT have seeped in the Industrial Business that IT(People) will always be involved in always making new technologies like these and providing them maintenance.
+    Back then, IoT or even IT doesn't exist in the Industrial Period, where work and labor are done with pretty much no modern technology at all. But now, IT have seeped in the Industrial Business that IT (People) will always be involved in always making new technologies like these and providing them maintenance.
 
 - **Reference**:  
 
@@ -29,6 +29,8 @@
 
 
 - **Reference**:  
+
+  _Source: Teach Educator (2025) “5G-Powered Learning.” Retrieved from [https://teacheducator.com/5g-powered-learning/]_
 
   _Source: Qualcomm. (2023). How 5G transforms industries. Retrieved from [https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/how_will_5g_transform_industrial_iot_2.pdf]_
 
@@ -51,7 +53,7 @@
 
   - **Reference**:  
 
-    _Source: “5G-Powered Learning.” Teach Educator, 2025. Retrieved from [https://teacheducator.com/5g-powered-learning/]_
+    _Source: Teach Educator (2025) “5G-Powered Learning.” Retrieved from [https://teacheducator.com/5g-powered-learning/]_
 
 
 - **In IT**:  
@@ -75,19 +77,38 @@
 
 - **In Education**:  
 
-  **Duolingo** uses AI algorithms to provide personalized language learning pathways based on how well users are progressing with their lessons. The app’s AI adapts its teaching techniques to match the learner’s speed and understanding.
+    Purpose in Education
 
+    Enhanced Learning Resources: Students and faculty benefit from high-speed, low-latency access to cloud-based educational tools, VR simulations, and research databases.
+
+    Hands-On Research Opportunities: The testbed serves as a live research environment for students in computer science, engineering, and IT, allowing them to develop and test real-time applications.
+
+    Community-Oriented Projects: The smart transport system benefits not only the campus but also nearby communities by easing mobility issues and serving as a model for smart city solutions.
+
+    Impact
+
+    Innovation Hub: The project positions Ateneo as a leader in 5G-driven education research in the Philippines.
+
+    Scalable Model: The testbed can be replicated by other universities seeking to adopt smart campus technology.
 
   - **Reference**:  
 
-    _Source: Duolingo Blog (2023). “The Role of AI in Language Learning.” Retrieved from [https://www.duolingo.com/blog/ai-language-learning](https://www.duolingo.com/blog/ai-language-learning)_
+    _Source: “University Campus 5G Testbed and Use Case Deployments in the Philippines.” Proceedings of SPIE OPTO 2020. Retrieved from [https://www.researchgate.net/publication/338958072_University_campus_5G_testbed_and_use_case_deployments_in_the_Philippines]_
 
 
 - **In IT**:  
 
-  **Google DeepMind** uses AI to optimize operations in Google's data centers by reducing energy consumption, demonstrating how AI can contribute to operational efficiency in large-scale IT systems.
+    PLDT Enterprise, the corporate arm of PLDT, partnered with Nokia to bring private 5G wireless network solutions to enterprise customers across various sectors, including manufacturing, mining, port operations, logistics, healthcare, retail, and smart cities.
+
+    This initiative focuses on delivering secure, high-bandwidth, ultra-low-latency 5G networks tailored to enterprise environments. By integrating these private 5G networks with businesses' existing LAN, WAN, and cloud infrastructure, PLDT and Nokia enable enhanced control, security, and operational performance
+
+    Business Impact:
+
+    Operational Efficiency: These private 5G networks allow real-time monitoring, analytics, automation, and remote equipment control—significantly enhancing productivity and reducing downtime.
+
+    Seamless Integration: Businesses can implement 5G capabilities without overhauling their existing infrastructure, thanks to PLDT's managed deployment approach.
 
 
   - **Reference**:  
 
-    _Source: “DeepMind's AI Cuts Google Data Center Energy Use.” The Verge, 2022. Retrieved from [https://www.theverge.com/2022/05/deepmind-ai-google-energy-use](https://www.theverge.com/2022/05/deepmind-ai-google-energy-use)_
+    _Source: “PLDT teams up with Nokia to build 5G private wireless networks for businesses” LightReading, 2024. Retrieved from [https://www.lightreading.com/5g/pldt-teams-up-with-nokia-to-build-5g-private-wireless-networks-for-businesses]_
