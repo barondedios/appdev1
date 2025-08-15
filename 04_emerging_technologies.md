@@ -8,6 +8,15 @@
 
 As you can see in the image above, 5G is being applied to almost everything that we can see. 5G provides such technologies the ability to function faster and in real-time with almost no connection issues at all. It is used for faster and efficient Tracking, Sensors, Inspection, and etc.
 
+5G has been making quite an impact in the industrial IoT, from providing a more secured tracking for vehicles and parcels, to providing efficient sensors and enhanced security with very low latency that allows very little errors to occur at all. 
+
+Back then, IoT or even IT doesn't exist in the Industrial Period, where work and labor are done with pretty much no modern technology at all. But now, IT have seeped in the Industrial Business that IT(People) will always be involved in always making new technologies like these and providing them maintenance.
+
+- **Reference**:  
+
+  _Source: Qualcomm. (2023). How 5G transforms industries. Retrieved from [https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/how_will_5g_transform_industrial_iot_2.pdf]_
+
+
 ## Purpose
 
 Its main goals are:
@@ -38,13 +47,17 @@ Its main goals are:
 
 - **In IT**:  
 
-  In IT, AI powers many innovations like automated customer service (e.g., chatbots) and data analytics. **IBM Watson** is used by companies for its AI-driven insights in fields like healthcare, finance, and IT infrastructure. Additionally, AI plays a critical role in **cybersecurity**, where it detects and neutralizes threats faster than traditional methods.
+Like what we have said in the Introduction before, IT have been making a very significant impact in the Industrial Business that almost all of Industrial Businesses are integrated with technologies that help them perform labor and services more efficient, practical, and more advanced.
 
+An example for this would be:
 
-  - **Reference**:  
+Back then, Internet doesn't exists yet, and there are no online delivery system or even online ordering systems, which is very different from now because ordering and delivery system have become much more seamless than before. Providing us hassle-free shopping and also providing the Industrial Business to track their vehicles and goods. 
 
-    _Source: Watson, K. (2023). “How AI is Revolutionizing Cybersecurity.” TechCrunch. Retrieved from [https://techcrunch.com/2023/03/ai-cybersecurity/](https://techcrunch.com/2023/03/ai-cybersecurity/)_
+![Alt text](https://i.imgur.com/7ZCH25s.png "Image Title")
 
+- **Reference**:  
+
+  _Source: Qualcomm. (2023). How 5G transforms industries. Retrieved from [https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/how_will_5g_transform_industrial_iot_2.pdf]_
 
 ## Examples
 
