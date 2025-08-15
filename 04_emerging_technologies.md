@@ -91,6 +91,8 @@
 
     Scalable Model: The testbed can be replicated by other universities seeking to adopt smart campus technology.
 
+    ![Alt text](https://i.imgur.com/HcnWdht.png "Image Title")
+
   - **Reference**:  
 
     _Source: “University Campus 5G Testbed and Use Case Deployments in the Philippines.” Proceedings of SPIE OPTO 2020. Retrieved from [https://www.researchgate.net/publication/338958072_University_campus_5G_testbed_and_use_case_deployments_in_the_Philippines]_
@@ -107,6 +109,8 @@
     Operational Efficiency: These private 5G networks allow real-time monitoring, analytics, automation, and remote equipment control—significantly enhancing productivity and reducing downtime.
 
     Seamless Integration: Businesses can implement 5G capabilities without overhauling their existing infrastructure, thanks to PLDT's managed deployment approach.
+
+    ![Alt text](https://www.techpatrl.com/wp-content/uploads/2019/03/Smart_Nokia_5G.jpg "Image Title")
 
 
   - **Reference**:  
