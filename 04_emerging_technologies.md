@@ -2,13 +2,21 @@
 
 ## Introduction
 
-
+5G (Fifth-Generation Mobile Network) is the latest standard in wireless communication, offering faster speeds, lower latency, and greater connectivity compared to previous generations.
 
 ![Alt text](https://i.imgur.com/uzZwoYi.png "Image Title")
 
+As you can see in the image above, 5G is being applied to almost everything that we can see. 5G provides such technologies the ability to function faster and in real-time with almost no connection issues at all. It is used for faster and efficient Tracking, Sensors, Inspection, and etc.
+
 ## Purpose
 
-The main purpose of Artificial Intelligence (AI) is to simulate human intelligence processes in machines, enabling them to perform tasks such as learning, problem-solving, and decision-making. AI aims to automate tasks, improve efficiency, and enhance accuracy in both education and IT sectors.
+Its main goals are:
+- Ultra-fast data transfer for seamless communication
+- Low-latency performance for real-time applications
+- Massive device connectivity to support IoT ecosystems
+- Enhanced bandwidth for high-quality streaming and interactive experiences
+
+5G aims to transform the way people, devices, and systems connect, enabling advanced applications in both education and IT industries.
 
 
 - **Reference**:  
