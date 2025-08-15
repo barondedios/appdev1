@@ -1,6 +1,6 @@
 # Example: Fifth-Generation Mobile Network (5G)
 
-## Introduction
+- ## Introduction
 
     5G (Fifth-Generation Mobile Network) is the latest standard in wireless communication, offering faster speeds, lower latency, and greater connectivity compared to previous generations.
 
@@ -17,7 +17,7 @@
   _Source: Qualcomm. (2023). How 5G transforms industries. Retrieved from [https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/how_will_5g_transform_industrial_iot_2.pdf]_
 
 
-## Purpose
+- ## Purpose
 
     Its main goals are:
     - Ultra-fast data transfer for seamless communication
