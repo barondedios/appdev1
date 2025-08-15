@@ -42,7 +42,7 @@
     5G technology is set to significantly transform educational environments in several significant ways:
 
     Enhanced Connectivity
-    5G delivers markedly faster download and upload speeds, allowing students and educators to access online learning materials more efficiently and with minimal delay. This reduces wait times and streamlines access to course resources 
+    5G delivers markedly faster download and upload speeds, allowing students and educators to access online learning materials more efficiently and with minimal delay. This reduces wait times and streamlines access to course resources.
 
     Immersive Learning Experiences
     The high bandwidth and low latency of 5G enable sophisticated VR (Virtual Reality) and AR (Augmented Reality) applications. Students can, for example, explore historical sites, conduct virtual science simulations, or practice procedural skills in virtual settings—deepening comprehension and long-term retention 
