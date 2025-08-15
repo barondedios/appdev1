@@ -1,5 +1,10 @@
-# Example: Artificial Intelligence (AI)
+# Example: Fifth-Generation Mobile Network (5G)
 
+## Introduction
+
+
+
+![Alt text](https://i.imgur.com/uzZwoYi.png "Image Title")
 
 ## Purpose
 
@@ -8,7 +13,7 @@ The main purpose of Artificial Intelligence (AI) is to simulate human intelligen
 
 - **Reference**:  
 
-  _Source: Smith, J. (2023). "Artificial Intelligence in Education: Trends and Applications." EdTech Magazine. Retrieved from [https://www.edtechmagazine.com/higher/article/2023/02/artificial-intelligence-education](https://www.edtechmagazine.com/higher/article/2023/02/artificial-intelligence-education)_
+  _Source: Qualcomm. (2023). How 5G transforms industries. Retrieved from [https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/how_will_5g_transform_industrial_iot_2.pdf]_
 
 
 ## Usage
