@@ -19,10 +19,18 @@ const App = () => {
 
   const isLoggedIn = true; // Conditional Rendering
 
+  const friends = ['Justin', 'Nabunturan', 'Balmond'];
+
   return (
     <div>
       <h1>{isLoggedIn ? `Welcome to X, ${userName}!` : 'Please log in'}</h1>
       <p>This is a simple JSX markup example.</p>
+        <h1>Friend List:</h1>
+      <ul>
+        {friends.map((friend, index) => (
+          <li key={index}>{friend}</li>
+        ))}
+      </ul>
       <Greeting />
     </div>
   );
