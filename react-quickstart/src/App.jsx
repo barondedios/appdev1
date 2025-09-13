@@ -10,9 +10,14 @@ const Greeting = () => {
 
 // Parent Component (App.jsx)
 const App = () => {
+  const headingStyle = {
+    color: 'Gray',
+    fontSize: '2rem',
+  };
+
   return (
     <div>
-      <h1>Welcome to React!</h1>
+      <h1 style={headingStyle}>Welcome to React!</h1>
       <p>This is a simple JSX markup example.</p>
       <Greeting />
     </div>
