@@ -27,6 +27,12 @@ const App = () => {
     setCount(count + 1);
   };
 
+  const [message, setMessage] = useState('Hello, World!');
+
+  const changeMessage = () => {
+    setMessage('You changed the message!');
+  };
+
   return (
     <div>
       <h1>{isLoggedIn ? `Welcome to X, ${userName}!` : 'Please log in'}</h1>
@@ -37,6 +43,8 @@ const App = () => {
           <li key={index}>{friend}</li>
         ))}
       </ul>
+      <h1>{message}</h1>
+      <button onClick={changeMessage}>Change Message</button>
       <Greeting />
 
        <h3>Click the button to increase count:</h3>
