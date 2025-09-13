@@ -15,9 +15,11 @@ const App = () => {
     fontSize: '2rem',
   };
 
+  const userName = 'Aaron';
+
   return (
     <div>
-      <h1 style={headingStyle}>Welcome to React!</h1>
+      <h1 style={headingStyle}>Welcome to React, {userName}!</h1>
       <p>This is a simple JSX markup example.</p>
       <Greeting />
     </div>
