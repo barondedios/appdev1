@@ -21,6 +21,12 @@ const App = () => {
 
   const friends = ['Justin', 'Nabunturan', 'Balmond'];
 
+  const [count, setCount] = useState(0);
+
+  const handleClick = () => {
+    setCount(count + 1);
+  };
+
   return (
     <div>
       <h1>{isLoggedIn ? `Welcome to X, ${userName}!` : 'Please log in'}</h1>
@@ -32,6 +38,11 @@ const App = () => {
         ))}
       </ul>
       <Greeting />
+
+       <h3>Click the button to increase count:</h3>
+        <button onClick={handleClick}>Click Me</button>
+          <p>Count: {count}</p>
+
     </div>
   );
 };
