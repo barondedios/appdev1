@@ -15,11 +15,13 @@ const App = () => {
     fontSize: '2rem',
   };
 
-  const userName = 'Aaron';
+  const userName = 'Aaron'; // Displaying Data
+
+  const isLoggedIn = true; // Conditional Rendering
 
   return (
     <div>
-      <h1 style={headingStyle}>Welcome to React, {userName}!</h1>
+      <h1>{isLoggedIn ? `Welcome to X, ${userName}!` : 'Please log in'}</h1>
       <p>This is a simple JSX markup example.</p>
       <Greeting />
     </div>
