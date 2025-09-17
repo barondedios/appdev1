@@ -4,16 +4,19 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const isLoggedIn = true;
+  const fruits = ["Apple", "Banana", "Cherry"];
 
   return (
-    <div>
-      {isLoggedIn ? <h1>Welcome back!</h1> : <h1>Please log in.</h1>}
-    </div>
+    <ul>
+      {fruits.map((fruit, index) => (
+        <li key={index}>{fruit}</li>
+      ))}
+    </ul>
   );
 }
 
 export default App;
+
 
 
 
