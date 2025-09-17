@@ -19,7 +19,7 @@ const App = () => {
 
   const isLoggedIn = true; // Conditional Rendering
 
-  const friends = ['Justin', 'Nabunturan', 'Balmond'];
+  const friends = ['Justin', 'Nabunturan', 'Balmond']; //
 
   const [count, setCount] = useState(0);
 
