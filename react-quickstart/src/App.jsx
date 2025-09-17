@@ -3,17 +3,15 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
-function Greeting() {
-  return <h1>Hello from Greeting!</h1>;
-}
-
 function App() {
+  const name = "React Learner";
   return (
     <div>
-      <Greeting />
-      <p>This is nested inside App.</p>
+      <h1>Welcome, {name}!</h1>
+      <p>JSX lets you write HTML-like syntax in JavaScript.</p>
     </div>
   );
 }
 
 export default App;
+
