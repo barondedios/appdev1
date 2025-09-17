@@ -3,17 +3,24 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
+function Welcome({ name }) {
+  return <h1>Hello, {name}!</h1>;
+}
+
 function App() {
-  function handleClick() {
-    alert("Button clicked!");
-  }
+  const userName = "Alex";
 
   return (
-    <button onClick={handleClick}>Click Me</button>
+    <div>
+      <Welcome name={userName} />
+    </div>
   );
 }
 
 export default App;
+
+
+
 
 
 
