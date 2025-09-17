@@ -3,21 +3,21 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
-function App() {
-  const user = {
-    name: "Jane Doe",
-    age: 28
-  };
+function Greeting() {
+  return <h1>Hello from Greeting!</h1>;
+}
 
+function App() {
   return (
     <div>
-      <h1>{user.name}</h1>
-      <p>Age: {user.age}</p>
+      <Greeting />
+      <p>This is nested inside App.</p>
     </div>
   );
 }
 
 export default App;
+
 
 
 
