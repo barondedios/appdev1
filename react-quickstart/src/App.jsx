@@ -4,18 +4,17 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const fruits = ["Apple", "Banana", "Cherry"];
+  function handleClick() {
+    alert("Button clicked!");
+  }
 
   return (
-    <ul>
-      {fruits.map((fruit, index) => (
-        <li key={index}>{fruit}</li>
-      ))}
-    </ul>
+    <button onClick={handleClick}>Click Me</button>
   );
 }
 
 export default App;
+
 
 
 
