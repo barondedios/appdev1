@@ -3,26 +3,21 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
-const styles = {
-  container: {
-    backgroundColor: "#f0f0f0",
-    padding: "20px",
-    borderRadius: "8px",
-    textAlign: "center"
-  },
-  heading: {
-    color: "#007bff"
-  }
-};
-
 function App() {
+  const user = {
+    name: "Jane Doe",
+    age: 28
+  };
+
   return (
-    <div style={styles.container}>
-      <h1 style={styles.heading}>Styled with Inline CSS</h1>
+    <div>
+      <h1>{user.name}</h1>
+      <p>Age: {user.age}</p>
     </div>
   );
 }
 
 export default App;
+
 
 
