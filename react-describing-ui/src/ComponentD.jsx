@@ -1,7 +1,7 @@
 function ComponentD() {
   return (
     <div>
-      <p>Trees are useful ^^</p>
+      <p>Trees are useful</p>
     </div>
   );
 }
