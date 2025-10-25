@@ -2,33 +2,28 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import { people } from './data.js';
+import { getImageUrl } from './utils.js';
 
-function Item({ name, isPacked }) {
-  return (
-    <li className="item">
-      {name} {isPacked && '✅'}
+export default function List() {
+  const listItems = people.map(person =>
+    <li key={person.id}>
+      <img
+        src={getImageUrl(person)}
+        alt={person.name}
+      />
+      <p>
+        <b>{person.name}:</b>
+        {' ' + person.profession + ' '}
+        known for {person.accomplishment}
+      </p>
     </li>
   );
-}
-
-export default function PackingList() {
   return (
-    <section>
-      <h1>Aaron's Packing List</h1>
-      <ul>
-        <Item
-          isPacked={false}
-          name="Space suit"
-        />
-        <Item
-          isPacked={true}
-          name="Helmet with a golden leaf"
-        />
-        <Item
-          isPacked={false}
-          name="Photo of Tam"
-        />
-      </ul>
-    </section>
+    <article>
+      <h1>Scientists</h1>
+      <ul>{listItems}</ul>
+    </article>
   );
 }
+
