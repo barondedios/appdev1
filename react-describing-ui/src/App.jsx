@@ -2,33 +2,38 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import Profile from './Profile.jsx';
+import { getImageUrl } from './utils.js'
 
-const person = {
-  name: 'Zebra',
-  theme: {
-    backgroundColor: 'black',
-    color: 'pink'
-  }
-};
-
-export default function TodoList() {
+function Avatar({ person, size }) {
   return (
-    <div style={person.theme}>
-      <h1>{person.name}'s Todos</h1>
-      <img
-        className="avatar"
-        src="https://i.pinimg.com/736x/80/dc/cf/80dccf1b9be4d877a362b913b93b2258.jpg"
-        alt="Gregorio Y. Zara"
-      />
-      <ul>
-        <li>Eat</li>
-        <li>Sleep</li>
-        <li>Work, repeat</li>
-      </ul>
+    <img
+      className="avatar"
+      src={getImageUrl(person)}
+      alt={person.name}
+      width={size}
+      height={size}
+    />
+  );
+}
+
+function Card({ children }) {
+  return (
+    <div className="card">
+      {children}
     </div>
   );
 }
 
-
-
+export default function Profile() {
+  return (
+    <Card>
+      <Avatar
+        size={100}
+        person={{
+          name: 'Katsuko Saruhashi',
+          imageId: 'YfeOqp2'
+        }}
+      />
+    </Card>
+  );
+}
