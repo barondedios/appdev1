@@ -4,17 +4,18 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import { people } from './data.js';
 import { getImageUrl } from './utils.js';
+import ComponentA from './ComponentA';
+import ComponentC from './ComponentC';
 
-function Cup({ guest }) {
-  return <h2>Tea cup for guest #{guest}</h2>;
-}
-
-export default function TeaSet() {
+function RootComponent() {
   return (
-    <>
-      <Cup guest={1} />
-      <Cup guest={2} />
-      <Cup guest={3} />
-    </>
+    <div>
+      <h1>Why understanding your UI as trees is useful?</h1>
+      <ComponentA />
+      <ComponentC />
+    </div>
   );
 }
+
+export default RootComponent;
+
