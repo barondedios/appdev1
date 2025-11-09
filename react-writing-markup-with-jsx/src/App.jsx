@@ -4,19 +4,38 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  // Original HTML (for reference)
-  // <div class="container">
-  //   <h1>Hello World!</h1>
-  //   <p>This is written in HTML.</p>
-  // </div>
+  const name = "Aaron";
+  const year = new Date().getFullYear();
 
-  // Converted JSX version
   return (
-    <div className="container">
-      <h1>Hello, React!</h1>
-      <p>This is written in JSX instead of plain HTML.</p>
+    <div className="app">
+      {/* One root element rule */}
+      <header>
+        <h1>JSX Rules Demonstration</h1>
+      </header>
+
+      <main>
+        {/* Using curly braces for JavaScript expressions */}
+        <p>Hello, {name}! Welcome to JSX learning.</p>
+        <p>The current year is {year}.</p>
+
+        {/* All tags must be closed properly */}
+        <img
+          src="https://via.placeholder.com/150"
+          alt="Example"
+          width="150"
+          height="150"
+        />
+
+        {/* camelCase attributes example */}
+        <button onClick={() => alert("Button clicked!")}>
+          Click Me
+        </button>
+      </main>
     </div>
   );
 }
 
 export default App;
+
+
