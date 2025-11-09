@@ -3,8 +3,14 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
-function MyFirstComponent() {
-  return <h1>Hello, I’m your first React component!</h1>;
+import MyFirstComponent from './MyFirstComponent';
+
+function App() {
+  return (
+    <div>
+      <MyFirstComponent />
+    </div>
+  );
 }
 
-export default MyFirstComponent;
+export default App;
