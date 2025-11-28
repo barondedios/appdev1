@@ -1,9 +1,9 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
-import { getTodos } from "../../../api/todosApi";
+import { getTodos } from "../../api/todosApi";
 
 export const fetchTodos = createAsyncThunk("todos/fetchTodos", async () => {
   const res = await getTodos();
-  return res.data.slice(0, 10); // limit to 10
+  return res.data.slice(0, 10); // first 10 todos
 });
 
 const todosSlice = createSlice({
